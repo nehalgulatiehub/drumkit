@@ -1,0 +1,29 @@
+*{
+    background-color: #393E46;
+}
+
+.container {
+    width: 70%;
+    margin: auto;
+    text-align: center;
+  }
+
+.dice {
+    text-align: center;
+    display: inline-block;
+  
+  }
+.player2, .player1 {
+    font-size: 40px;
+    color: yellow;
+    padding-left: 60px
+}
+
+
+.wins{
+    font-family: cursive;
+    color: white;
+    font-weight: 500;
+    font-size: 50px;
+}
+
